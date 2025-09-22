@@ -31,8 +31,7 @@ The robot uses infrared sensors to detect a black line and follows it using two 
 ---
 
 ## 📂 Repository Contents
-- `code/` → Source code (C/Arduino)
-- `docs/` → Documentation (schematics, diagrams, etc.)
+- `code/` → Source code (Arduino)
 - `README.md` → This project description
 - `LICENSE` → License file (MIT by default)
 
