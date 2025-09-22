@@ -40,7 +40,7 @@ The robot uses infrared sensors to detect a black line and follows it using two 
 ## 🔧 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/YOUR-USERNAME/line-follower-robot.git
+   git clone https://github.com/LeoTomy/Line-Follower-Robot.git
    ```
 2. Open the code in Arduino IDE (or compile with AVR-GCC).
 3. Connect the hardware (sensors + motors).
