@@ -35,7 +35,7 @@ https://youtu.be/47YR9N_rXyM
 
 ---
 
-## 📏 Building a Test Track
+## 🛣️ Building a Test Track
 
 1. Download design from https://robotsquare.com/2012/11/28/line-following/
 2. Print out pages shown, e.g., on laser printer (see also linefollowtiles.pdf).
