@@ -18,7 +18,7 @@ This project was developed as part of a robotics/microcontroller course and demo
 ![Line Follower Robot](docs/robot.jpg)
 
 🎥 Demo video:  
-[![Demo Video](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://www.youtube.com/watch?v=VIDEO_ID)
+https://youtu.be/47YR9N_rXyM
 
 
 
