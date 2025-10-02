@@ -15,7 +15,7 @@ This project was developed as part of a robotics/microcontroller course and demo
 
 ## 🧭 Demo
 📷 Robot hardware setup:  
-![Line Follower Robot](docs/robot.jpg)
+https://github.com/LeoTomy/Line-Follower-Robot/blob/main/Line%20Follower.jpg
 
 🎥 Demo video:  
 https://youtu.be/47YR9N_rXyM
