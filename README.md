@@ -62,7 +62,7 @@ https://youtu.be/47YR9N_rXyM
 ## 🚀 How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/LeoTomy/Line-Follower-Robot
+   https://github.com/LeoTomy/Line-Follower-Robot
 2. Open the code in Arduino IDE (or compile with AVR-GCC).
 3. Connect the hardware (sensors + motors).
 4. Upload the firmware to Arduino Nano.
